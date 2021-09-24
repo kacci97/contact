@@ -1,0 +1,82 @@
+input{
+    margin: 10px;
+    opacity: .5;
+    font-style: italic;
+
+}
+hr{
+    border-top:1px dashed lightgray;
+}
+form{
+    background-color: white;
+    padding:20px;
+    border-color:lightgray;
+    border-style: solid;
+    border-width:1px
+
+}
+.circle{
+    background-color: #30baaa;
+    height:30px;
+    width:30px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    color: white
+
+
+}
+.paragraph{
+    margin-top:10px;
+    color: darkgrey
+
+}
+label{
+    font-weight:550;
+    padding-left: 10px;
+}
+#main{
+    margin-top:100px;
+
+
+}
+textarea{
+    opacity: .5;
+    font-style: italic;
+}
+.form-check-input{
+    border: #30baaa solid 1px;
+}
+#sendMessageButton{
+    background-color: #30baaa;
+    color: white;
+    text-align: left;
+    font-weight: 550;
+    font-size: 80%;
+
+
+
+}
+.info1
+{
+    background-color: white;
+    padding:20px;
+    border-color:lightgray;
+    border-style: solid;
+    border-width:1px
+
+}
+h6{
+    text-align: center;
+
+}
+ .paragraphText {
+    text-align: center;
+     font-size: 75%;
+     opacity: 80%;
+
+}
+
+
+
+
